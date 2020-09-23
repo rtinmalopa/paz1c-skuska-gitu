@@ -6,6 +6,7 @@ public class Prva {
 		System.out.println("babkina fujara");
 		System.out.println("Martin sus :eyes:");
 		System.out.println("Musim pisat do prvej triedy lebo aj napriek tomu ze si dostal vyplatu tak si nerobis svoju pracu na 100% :peposad:");
+		System.out.println("pokus c. 2");
 	}
 
 }
